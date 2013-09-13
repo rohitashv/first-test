@@ -1,3 +1,3 @@
 <?php
-echo "branch";
+echo "branch.php";
 ?>
